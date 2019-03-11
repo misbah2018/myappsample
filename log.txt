@@ -2,6 +2,10 @@ erorr logs
 
 This is error logs
 
+<<<<<<< HEAD
 This is a new change in git hub
 
 A change done on local machine
+=======
+This is a login branch commit on local machine
+>>>>>>> login
